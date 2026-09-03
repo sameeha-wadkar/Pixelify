@@ -2,7 +2,7 @@
 
 A privacy-first, fully client-side image-to-pixel-art converter. Upload any image and transform it into pixel art directly in your browser — nothing is uploaded to a server, and no data ever leaves your device.
 
-**Live Demo:** [Add your deployed link here]
+**Live Demo:** [https://pixelify-rho.vercel.app/]
 
 ---
 

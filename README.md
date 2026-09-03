@@ -52,7 +52,7 @@ All of this runs synchronously in the browser — no image data is ever transmit
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/pixelify.git
+git clone https://github.com/sameeha-wadkar/pixelify.git
 cd pixelify
 npm install
 ```
